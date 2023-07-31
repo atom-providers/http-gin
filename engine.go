@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/rogeecn/atom-addons/providers/log"
+	"github.com/atom-providers/log"
 	"github.com/rogeecn/atom/container"
 	"github.com/rogeecn/atom/contracts"
 	"github.com/rogeecn/atom/utils/opt"
