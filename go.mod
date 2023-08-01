@@ -5,13 +5,14 @@ go 1.18
 require (
 	github.com/atom-providers/log v0.0.0-20230801024233-a65b67115343
 	github.com/gin-gonic/gin v1.9.1
-	github.com/rogeecn/atom v1.0.3
+	github.com/rogeecn/atom v1.0.4
 )
 
 require (
-	github.com/brianvoe/gofakeit/v6 v6.22.0 // indirect
-	github.com/bytedance/sonic v1.9.1 // indirect
-	github.com/chenzhuoyu/base64x v0.0.0-20221115062448-fe3a3abad311 // indirect
+	github.com/brianvoe/gofakeit/v6 v6.23.0 // indirect
+	github.com/bytedance/sonic v1.10.0-rc3 // indirect
+	github.com/chenzhuoyu/base64x v0.0.0-20230717121745-296ad89f973d // indirect
+	github.com/chenzhuoyu/iasm v0.9.0 // indirect
 	github.com/fsnotify/fsnotify v1.6.0 // indirect
 	github.com/gabriel-vasile/mimetype v1.4.2 // indirect
 	github.com/gin-contrib/sse v0.1.0 // indirect
@@ -43,13 +44,13 @@ require (
 	go.uber.org/dig v1.17.0 // indirect
 	go.uber.org/multierr v1.11.0 // indirect
 	go.uber.org/zap v1.24.0 // indirect
-	golang.org/x/arch v0.3.0 // indirect
-	golang.org/x/crypto v0.10.0 // indirect
-	golang.org/x/net v0.11.0 // indirect
+	golang.org/x/arch v0.4.0 // indirect
+	golang.org/x/crypto v0.11.0 // indirect
+	golang.org/x/net v0.12.0 // indirect
 	golang.org/x/sys v0.10.0 // indirect
 	golang.org/x/text v0.11.0 // indirect
-	google.golang.org/protobuf v1.30.0 // indirect
+	google.golang.org/protobuf v1.31.0 // indirect
 	gopkg.in/ini.v1 v1.67.0 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
-	gorm.io/gorm v1.25.1 // indirect
+	gorm.io/gorm v1.25.2 // indirect
 )
